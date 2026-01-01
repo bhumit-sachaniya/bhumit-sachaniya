@@ -1,3 +1,4 @@
+<div style="background=white">
 <h1 align="center">Hi 👋, I'm Bhumit</h1>
 <h3 align="center">A passionate mern stak developer from India</h3>
 
@@ -21,3 +22,4 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bhhumit-sachaniya&show_icons=true&locale=en&layout=compact" alt="bhhumit-sachaniya" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bhhumit-sachaniya&show_icons=true&locale=en" alt="bhhumit-sachaniya" /></p>
+</div>
